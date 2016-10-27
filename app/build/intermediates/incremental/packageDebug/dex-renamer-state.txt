@@ -1,0 +1,7 @@
+#Thu Oct 27 16:04:38 CST 2016
+base.0=C\:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32615787d832b679184a98a0a666fb71d7a1ff9a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e293b4a54a66bf54487e505cca618d9c5309538c\\classes.dex
+base.1=C\:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e293b4a54a66bf54487e505cca618d9c5309538c
+file.0=C\:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32615787d832b679184a98a0a666fb71d7a1ff9a\\classes.dex

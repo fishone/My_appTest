@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a65d69e9dd477e9e66c478f1a89c8a3ee4852434">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e293b4a54a66bf54487e505cca618d9c5309538c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_526111abe815ce79dd4b82111e496925f6deb246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_0081690c6b27570a594565631e9f94a7c41d7420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_c815de835bfe24e19d2d73c00a4833dbb4cfc461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_00aaaaa3705d06aa9b614875354264f2b64bf6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cbb52e13bd495fae0696c453aa4f3ec914affcb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_0ae2187119893ebee4f392aec3095cf778e7965b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\libs\jdom-2.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f14738ec2e9dd0011e343717fa624a10f8aab64">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\2\jdom-2.0.6_95907443746b16a2f92182f10a10c43f7afe1830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_ce5b4e8d9267602c2f9d29afaafbf56ba67fbe21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b04c27b851fd7a957021bf1b377c8c6797b72161">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32615787d832b679184a98a0a666fb71d7a1ff9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_50b591a860881060e0d008601353094c74332885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1a26f0d9d6a4753d916c58485e6281b0fa361d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3a73644400c08d4089087147d1c38f88a4348936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_f2790103151e7e6c1f49faa05bfd063fc3cf549d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Yuizhi\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_852435794c21fe5fa6f0f6cf8614a5d4a7c57cb5\classes.dex" />
+    </item>
+
+</items>

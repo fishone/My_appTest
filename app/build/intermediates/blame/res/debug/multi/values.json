@@ -1,0 +1,100 @@
+[
+    {
+        "outputFile": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 40,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 54,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 50,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 50,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "C:\\Users\\Yuizhi\\AndroidStudioProjects\\XMLJDOMParser\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
